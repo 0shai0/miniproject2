@@ -1,13 +1,9 @@
-팀원 (총 4)<br/>팀장 : 장성호
+팀원 (총 4)<br/><br/>팀장 : 장성호
 
-팀원 : 이재빈, 이윤주, 명하영
+팀원<br/><br/>이재빈, 이윤주, 명하영
 
 
-Position
-
-Front-End : 이재빈, 명하영, 장성호
-
-Back-End : 이윤주
+Position<br/><br/>Front-End : 이재빈, 명하영, 장성호<br/><br/>Back-End : 이윤주
 
 
 프로젝트에서 맡은 역할
